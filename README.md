@@ -32,7 +32,7 @@ Here are the tools I work with to analyze data and build software:
 
 I am open to new opportunities and interesting projects. Feel free to reach out to me!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-antoni-kawalerski-4969a3395)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-antoni)
 
 ---
 
