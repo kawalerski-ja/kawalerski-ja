@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Jan Antoni! 👋
 
-<!--
-**kawalerski-ja/kawalerski-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science and Econometrics** student at **AGH University of Science and Technology** in Kraków. 🎓
 
-Here are some ideas to get you started:
+My goal is to bridge the gap between raw data and actionable insights. I am currently building my portfolio and expanding my expertise in **Data Analysis**, with a strong ambition to grow into a **Data Scientist** role. I am passionate about uncovering patterns in data and building efficient backend solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+Here are the tools I work with to analyze data and build software:
+
+**Data Science & Analysis:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+**Databases & Backend:**
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+### 🔭 Current Focus
+
+- 📊 Deepening my knowledge of **Statistical Analysis** using R and Python.
+- 💻 Creating clean, well-documented projects for my portfolio.
+- 📈 Looking for internship opportunities in Data Analysis / Data Science.
+
+---
+
+### 📫 Let's Connect
+
+I am open to new opportunities and interesting projects. Feel free to reach out to me!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-antoni-kawalerski-4969a3395)
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kawalerski-ja&show_icons=true&theme=radical" alt="Jan's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawalerski-ja&layout=compact&theme=radical" alt="Top Languages" />
+</p>
