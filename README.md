@@ -36,7 +36,3 @@ I am open to new opportunities and interesting projects. Feel free to reach out 
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kawalerski-ja&show_icons=true&theme=radical" alt="Jan's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawalerski-ja&layout=compact&theme=radical" alt="Top Languages" />
-</p>
