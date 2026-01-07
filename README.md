@@ -2,7 +2,7 @@
 
 I am a **Computer Science and Econometrics** student at **AGH University of Science and Technology** in Kraków. 🎓
 
-My goal is to bridge the gap between raw data and actionable insights. I am currently building my portfolio and expanding my expertise in **Data Analysis**, with a strong ambition to grow into a **Data Scientist** role. I am passionate about uncovering patterns in data and building efficient backend solutions.
+My goal is to bridge the gap between raw data and actionable insights. I am currently building my portfolio and expanding my expertise in **Data Analysis**, with a strong ambition to grow into a **Data Engineer** role. I am passionate about uncovering patterns in data and building efficient backend solutions.
 
 ---
 
@@ -22,9 +22,9 @@ Here are the tools I work with to analyze data and build software:
 
 ### 🔭 Current Focus
 
-- 📊 Deepening my knowledge of **Statistical Analysis** using R and Python.
-- 💻 Creating clean, well-documented projects for my portfolio.
-- 📈 Looking for internship opportunities in Data Analysis / Data Science.
+- 💻 Self-learning **Data Engineering** concepts
+- 📊 Creating clean and well-documented projects for my portfolio.
+- 📈 Looking for internship opportunities in Data.
 
 ---
 
