@@ -22,7 +22,8 @@ Here are the tools I work with to analyze data and build software:
 
 ### 🔭 Current Focus
 
-- 💻 Self-learning **Data Engineering** concepts
+- 💻 Self-learning **Data Engineering** concepts:  ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 - 📊 Creating clean and well-documented projects for my portfolio.
 - 📈 Looking for internship opportunities in Data.
 
